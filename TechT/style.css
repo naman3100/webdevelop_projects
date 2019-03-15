@@ -1,0 +1,32 @@
+
+
+h2 {
+	font-family: 'Kavivanar', cursive;
+	color:#801a00;
+	font-weight: bold;
+}
+.container{
+	border: 20px solid gray;
+	width:50%;
+	background:url(https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:20px;
+}
+label {
+ color: #33331a;
+
+}
+body{
+	background : url(https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form-control{
+	width:35%;
+}
+h3
+{
+	color:#801a00;
+	font-weight: bold;
+}
